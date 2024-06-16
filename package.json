@@ -1,0 +1,22 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyashi911/RestAPI.git"
+  },
+  "author": "Priyashi Barnwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyashi911/RestAPI/issues"
+  },
+  "homepage": "https://github.com/Priyashi911/RestAPI#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
